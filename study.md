@@ -113,7 +113,8 @@ cp
 rm
     - 파일을 제거하는 명령어
 
-
+sudo apt-get install [] 
+    - 다운로드
 
 
 
