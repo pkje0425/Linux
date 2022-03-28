@@ -113,8 +113,11 @@ cp
 rm
     - 파일을 제거하는 명령어
 
-sudo apt-get install [] 
-    - 다운로드
+sudo apt-get install [git] 
+    - [git] 다운로드
+git clone [git주소]
+    - 깃 클론
+    
 
 
 
